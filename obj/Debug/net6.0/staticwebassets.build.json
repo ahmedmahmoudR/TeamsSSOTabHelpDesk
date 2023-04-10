@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "DKtXutSlQ9sxazB0w8tWrkhW8veENbrPLGXSLpzfvmE=",
+  "Source": "PersonalTabSSO",
+  "BasePath": "_content/PersonalTabSSO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PersonalTabSSO\\wwwroot",
+      "Source": "PersonalTabSSO",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\Microsoft-Teams-Samples\\samples\\tab-personal-sso-quickstart\\csharp_dotnetcore\\wwwroot\\",
+      "BasePath": "_content/PersonalTabSSO",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dell\\source\\repos\\Microsoft-Teams-Samples\\samples\\tab-personal-sso-quickstart\\csharp_dotnetcore\\wwwroot\\favicon.ico",
+      "SourceId": "PersonalTabSSO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\Microsoft-Teams-Samples\\samples\\tab-personal-sso-quickstart\\csharp_dotnetcore\\wwwroot\\",
+      "BasePath": "_content/PersonalTabSSO",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Dell\\source\\repos\\Microsoft-Teams-Samples\\samples\\tab-personal-sso-quickstart\\csharp_dotnetcore\\wwwroot\\js\\auth.js",
+      "SourceId": "PersonalTabSSO",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dell\\source\\repos\\Microsoft-Teams-Samples\\samples\\tab-personal-sso-quickstart\\csharp_dotnetcore\\wwwroot\\",
+      "BasePath": "_content/PersonalTabSSO",
+      "RelativePath": "js/auth.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\auth.js"
+    }
+  ]
+}
